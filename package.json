@@ -1,0 +1,25 @@
+{
+  "name": "queries-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeema7/queries-mongo.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeema7/queries-mongo/issues"
+  },
+  "homepage": "https://github.com/jeema7/queries-mongo#readme",
+  "dependencies": {
+    "mongoose": "^6.5.4"
+  }
+}
